@@ -22,7 +22,7 @@
 3.3.1 Látið p tögg fá padding 5 pixla
 3.3.2 Látið p tögg fá margin 0
 
-3.4 Látið id zero fá bakgrunnslitinn rgb(238,62,128) 
+3.4 Látið id zero fá bakgrunnslitinn #64645A 
 3.5 Látið id one fá bakgrunnslitinn rgb(244,90,139)
 3.6 Látið id two fá bakgrunnslitinn rgb(243,106,152) 
 3.7 Látið id three fá bakgrunnslitinn rgb(244,123,166) 
